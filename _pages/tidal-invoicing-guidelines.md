@@ -22,6 +22,9 @@ header:
   * TIDAL Music AS
   * Aspiro AB
   * Project Panther US LLC
+  * TIDAL sp. z.o.o
+  * TIDAL Music LLC
+  * Malibu Entertainment Inc
 3. Date of submission (the date on your invoice should match the day you send it in)
 4. Date of services
 5. Your Name
